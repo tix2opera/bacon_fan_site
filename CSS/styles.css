@@ -1,0 +1,42 @@
+/* HTML Tags as selectors */
+
+body {
+  background-color: #52524e;
+
+}
+
+h1 {
+font-family: cursive;
+font-size: 100px;
+color: #e9e9e5;
+font-weight: lighter;
+}
+
+img {
+  background-color: #e9e9e5;
+  border-radius: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+}
+
+pre {
+  font-family: cursive;
+  font-size: 15px;
+  color: #e9e9e5;
+  font-weight: lighter;
+
+}
+
+/*Class as selectors*/
+/*
+.bacon {
+  background-color: #e9e9e5;
+
+}
+
+.earth {
+  background-color: red;
+}
+*/
